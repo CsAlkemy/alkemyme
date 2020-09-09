@@ -1,15 +1,9 @@
-# Marcus Wood's Personal Site 🌊
-
-This is the personal website of Marcus Wood. It is written in Typescript, Gatsby, Theme-UI, and Emotion.
 
 ## Running Locally
 
 This website is built on the latest LTS version of Node using OSX. You will likely need to make additional configuration to the scripts if you want to develop on this using a Windows machine.
 
-```sh
-git clone git@github.com:mwood23/marcuswood.io.git
-
-cd marcuswood.io
+cd alkemyme
 
 yarn
 
